@@ -11,7 +11,7 @@ packages = [
 
 [project]
 name = "dft_phot1x"
-version = "0.1.0"
+version = "0.1.1"
 authors = [
   { name="Lukas Chrostowski", email="lukasc@ece.ubc.ca" },
 ]
@@ -22,9 +22,6 @@ classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
-]
-dependencies = [
-  "SiEPIC_EBeam_PDK>=0.4.47",
 ]
 
 

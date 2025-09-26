@@ -7,6 +7,6 @@
 
 - pip install dft_phot1x
 
-or
+or for developers:
 
-- python -m pip install -e '/Users/lukasc/Documents/GitHub/DFT_Phot1x'
+- python -m pip install -e 'PATH_TO_GITHUB/DFT_Phot1x'
